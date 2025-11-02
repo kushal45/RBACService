@@ -619,7 +619,7 @@ npm run test:watch
 
 
 
-Got ideas? Found a bug? Want to add features? Here's how:
+Here's how to contribute:
 
 1. **Fork** this repository
 2. **Create a branch** (`git checkout -b feature/awesome-feature`)
@@ -628,7 +628,6 @@ Got ideas? Found a bug? Want to add features? Here's how:
 5. **Push** to your branch (`git push origin feature/awesome-feature`)
 6. **Open a Pull Request** and describe what you've done
 
-We're friendly, promise! 
 
 ## License
 
